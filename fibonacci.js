@@ -29,5 +29,5 @@ const fibsRec = function fibsRec(n) {
 }
 
 
-console.log(fibsRec(10));
+// console.log(fibsRec(10));
 

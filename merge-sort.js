@@ -50,5 +50,5 @@ const mergeSort = function mergeSort(arrToSort, lowIndex, highIndex) {
 }
 
 
-const testArr = [3, 5, 2, 4, 8, 3, 6, 1];
-console.log(mergeSort(testArr, 0, testArr.length - 1));
+// const testArr = [3, 5, 2, 4, 8, 3, 6, 1];
+// console.log(mergeSort(testArr, 0, testArr.length - 1));
